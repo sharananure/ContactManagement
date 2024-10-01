@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+# Ignore compiled output
+*.out
+# Ignore Zone.Identifier files
+*:Zone.Identifier
+
 # Object files
 *.o
 *.ko
@@ -51,8 +56,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Ignore compiled output
-*.out
-# Ignore Zone.Identifier files
-*:Zone.Identifier
 
