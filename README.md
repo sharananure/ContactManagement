@@ -12,6 +12,6 @@ A simple contact management application that allows users to create, edit, delet
 ## Installation
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sharananure/ContactManagement
 
 A simple contact management program that allows users to create, edit, delete, and search for contacts. It includes phone number and email validation, as well as the ability to save and load contacts from a file.
